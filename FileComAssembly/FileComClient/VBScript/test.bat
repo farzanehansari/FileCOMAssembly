@@ -1,0 +1,1 @@
+%windir%\SysWOW64\wscript.exe test.vbs
