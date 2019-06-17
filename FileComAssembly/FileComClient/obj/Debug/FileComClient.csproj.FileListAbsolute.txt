@@ -1,0 +1,12 @@
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\FileComClient.exe.config
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\FileComClient.exe
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\FileComClient.pdb
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\FileComAddIn.dll
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\NLog.dll
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\FileComAddIn.pdb
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\bin\Debug\NLog.xml
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\obj\Debug\FileComClient.csprojAssemblyReference.cache
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\obj\Debug\FileComClient.csproj.CoreCompileInputs.cache
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\obj\Debug\FileComClient.csproj.CopyComplete
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\obj\Debug\FileComClient.exe
+C:\Users\fansari\Desktop\FileComAssembly\FileComClient\obj\Debug\FileComClient.pdb
